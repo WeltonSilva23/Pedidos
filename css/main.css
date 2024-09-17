@@ -458,7 +458,7 @@ card-banner {
 }
 
 footer {
-    background-color: var(--color-white);
+    background-color: var(--color-text-out: #90908e);
 }
 
 .logo-footer {
