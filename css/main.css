@@ -235,7 +235,6 @@ card-banner {
     left: 0;
     right: 0;
     height: 500px;
-    background-image: url(../img/bg-icons-2.png);
 }
 
 .cardapio {
@@ -248,7 +247,6 @@ card-banner {
     left: 0;
     right: 0;
     height: 500px;
-    background-image: url(../img/bg-icons-1.png);
 }
 
 .container-menu {
@@ -460,7 +458,7 @@ card-banner {
 }
 
 footer {
-    background-color: var(--color-text-out);
+    background-color: var(--color-white);
 }
 
 .logo-footer {
