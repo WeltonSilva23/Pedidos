@@ -1,38 +1,38 @@
 
 /* Desktop (col-lg) 992px+ */
-@media (min-width: 992px) {
+@media (min-width: 361px) {
 
 }
 
 /* Desktop e Tablets (col-md) 768px a 991px */
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 361px) and (max-width: 991px) {
 
 }
 
 /* Tablets (col-sm) 576px a 767px */
-@media (min-width: 570px) and (max-width: 765px) {
+@media (min-width: 10px) and (max-width: 768px) {
 
 }
 
 /* Tablets e Celulares (col) 0px a 767px */
-@media (max-width: 765px) {
+@media (max-width: 6768px) {
 
     .no-mobile {
         display: none!important;
     }
 
     .col-one {
-        padding-left: 35px!important;
-        padding-right: 35px!important;
+        padding-left: 5px!important;
+        padding-right: 5px!important;
     }
 
     .navbar-toggler-icon {
-        padding-top: 5px;
+        padding-top: 2px;
     }
 
     .navbar-collapse {
         background-color: var(--color-secondary);
-        padding: 20px;
+        padding: 250px;
         text-align: center;
         border-radius: 40px;
     }
@@ -50,8 +50,8 @@
     }
 
     .banner {
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-top: 25px;
+        padding-bottom: 25px;
     }
 
     .text-banner h1 {
@@ -82,11 +82,11 @@
     }
 
     .servicos {
-        padding-bottom: 50px;
+        padding-bottom: 2px;
     }
 
     .cardapio {
-        padding-bottom: 50px;
+        padding-bottom: 0px;
     }
 
     .container-menu {
@@ -109,7 +109,7 @@
     }
 
     .card-item .img-produto img {
-        width: 80px;
+        width: 70px;
     }
 
     .title-produto {
@@ -132,22 +132,13 @@
     #itensCardapio .mb-5 {
         margin-bottom: 15px!important;
     }
-
-    .depoimentos {
-        padding-bottom: 50px;
-    }
-
-    .reserva {
-        padding-bottom: 50px;
-    }
-
     .card-secondary {
         padding: 45px;
         border-radius: 50px;
     }
     .footer{
-        padding: 100%;
-        border-radius: 50px;
+        padding: 100em;
+        border-radius: 500em;
     }
 
     .container-logo-footer {
@@ -159,7 +150,7 @@
     }
 
     .container-redes-footer {
-        margin-top: 30px;
+        margin-top: 5px;
         margin-bottom: 30px;
         justify-content: center;
     }
@@ -201,3 +192,4 @@
     }
 
 }
+
